@@ -50,4 +50,4 @@ Running the command:
   ```
 The output will be:
 
-![Screenshot](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Screenshot](https://github.com/Ketan-Pal/wc-command-line-tool/blob/main/Screenshot.jpg?raw=true)
